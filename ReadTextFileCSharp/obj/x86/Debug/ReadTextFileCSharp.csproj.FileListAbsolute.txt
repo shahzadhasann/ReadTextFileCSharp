@@ -1,0 +1,16 @@
+C:\Users\Mahesh\AppData\Local\Temporary Projects\ReadTextFileCSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mahesh\AppData\Local\Temporary Projects\ReadTextFileCSharp\bin\Debug\ReadTextFileCSharp.exe
+C:\Users\Mahesh\AppData\Local\Temporary Projects\ReadTextFileCSharp\bin\Debug\ReadTextFileCSharp.pdb
+C:\Users\Mahesh\AppData\Local\Temporary Projects\ReadTextFileCSharp\obj\x86\Debug\ReadTextFileCSharp.exe
+C:\Users\Mahesh\AppData\Local\Temporary Projects\ReadTextFileCSharp\obj\x86\Debug\ReadTextFileCSharp.pdb
+C:\Books\Windows Forms\ReadTextFileCSharp\ReadTextFileCSharp\obj\x86\Debug\ReadTextFileCSharp.exe
+C:\Books\Windows Forms\ReadTextFileCSharp\ReadTextFileCSharp\obj\x86\Debug\ReadTextFileCSharp.pdb
+C:\Books\Windows Forms\ReadTextFileCSharp\ReadTextFileCSharp\bin\Debug\ReadTextFileCSharp.exe
+C:\Books\Windows Forms\ReadTextFileCSharp\ReadTextFileCSharp\bin\Debug\ReadTextFileCSharp.pdb
+C:\Books\Windows Forms\ReadTextFileCSharp\ReadTextFileCSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shahzad.Hasan\Downloads\ReadTextFileCSharp\ReadTextFileCSharp\bin\Debug\ReadTextFileCSharp.exe
+C:\Users\Shahzad.Hasan\Downloads\ReadTextFileCSharp\ReadTextFileCSharp\bin\Debug\ReadTextFileCSharp.pdb
+C:\Users\Shahzad.Hasan\Downloads\ReadTextFileCSharp\ReadTextFileCSharp\obj\x86\Debug\ReadTextFileCSharp.csproj.AssemblyReference.cache
+C:\Users\Shahzad.Hasan\Downloads\ReadTextFileCSharp\ReadTextFileCSharp\obj\x86\Debug\ReadTextFileCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Shahzad.Hasan\Downloads\ReadTextFileCSharp\ReadTextFileCSharp\obj\x86\Debug\ReadTextFileCSharp.exe
+C:\Users\Shahzad.Hasan\Downloads\ReadTextFileCSharp\ReadTextFileCSharp\obj\x86\Debug\ReadTextFileCSharp.pdb
